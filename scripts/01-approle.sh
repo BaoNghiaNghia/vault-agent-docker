@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Setup VAULT_ADDR and VAULT_TOKEN
-export VAULT_ADDR=http://localhost:8200
+export VAULT_ADDR=http://103.234.189.46:8200
 export VAULT_TOKEN=root
 
 # Enable AppRole and create a role:
